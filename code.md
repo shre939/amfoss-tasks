@@ -1,5 +1,5 @@
 # Secret Code
-## FIRST CHALLENGE: Impedimenta
+## FIRST CHALLENGE: IMPEDIMENTA
 ### CODE: 
 import subprocess
 import json
