@@ -51,7 +51,7 @@ try:
 
 except Exception as e:
     print("Unkown Error occured, please try again later")
-## THIRD CHALLENGE:EXPECTO PATRONUM
+## THIRD CHALLENGE:RIDIKKULUS
 ### CODE:
 import subprocess
 import json
@@ -63,17 +63,11 @@ try:
     userLogin=user['login']
     file=os.path.basename(__file__)
     spell=file.split('.')[0]
-    code="ZGVsZXRlZCBjbw"
-
- 
-
+    code="Uh1bnRzbWFuNC9U"
     print(f'''
-
-    {userName} (@{userLogin}), you are about to use the {spell} spell. Are you sure this is the right one?
-    If yes, then the secret code assosciated with it is:
-    {code}
-        ''')
-       
+    {userName} (@{userLogin}), you have found the right spell. As a part of your reward for solving the riddle,
+    here is the secret code assosciated with it: {code}
+    ''')
 
 except Exception as e:
     print("Unkown Error occured, please try again later")
