@@ -14,11 +14,11 @@ Hello,everyone! I'm Shreya Sanjay,currently pursuing Robotics & Artificial Intel
 **How will you contribute back to the club?**
 
 _I"m ready to put in the best of my efforts into doing whatever tasks that help the club and its members.Mankind has fostered only by the perpetual sharing of knowledge.Keeping that in mind,I will try to be an active member who is  resourceful in her attempts at helping others whenever possible._
-**DO YOU HAVE ANY FEEDBACK ON THE SEELCTION PROCESS?**
 
-I found the seniors at eriador quite helpful and were
 
-**TASK LIST
+
+***TASK LIST***
+
 [x]TERMINAL WIZARD|COMPLETED
 []LESSGO HUGO|UNATTEMPTED
 [x]HELLO WORLD|COMPLETED
