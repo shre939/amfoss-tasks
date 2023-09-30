@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title></title>
+    </head>
+<style>
+  body {
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+a:hover {
+    color: rgb(179, 179, 179);
+}
+.site-header {
+    border-bottom: 1px solid #ccc;
+    padding: 0.5em 1em;
+    display: flex;
+    justify-content: space-between;
+}
+.site-identity h1 {
+    font-size: 1.5em;
+    margin: 0.6em 0;
+    display: inline-block;
+}
+.site-navigation ul,
+.site-navigation li {
+    margin: 0;
+    padding: 0;
+}
+.site-navigation li {
+    display: inline-block;
+    margin: 1.4em 0.6em 0.6em 0.6em;
+}
+
+header{
+background-color: rgba(0,0,0,.8);
+height: 5vh;
+align-items: center;
+
+border: none;
+
+}
+
+
+.logo{
+height: auto;
+width: 31px;
+}
+
+.logos{
+height: auto;
+width: 26px;
+}
+  
+</style>   
+ <body>
+        <header class="site-header">
+            <div class="site-identity">
+                <h1><a href="landing-page.html"> <img class="logo" src="assets/navbar/logo.png"></a></h1>
+            </div>
+            <nav class="site-navigation">
+                <ul class="nav">
+                    <li><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q">
+			<img class="logos" src="assets/navbar/spotify.png"></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCT9zcQNlyht7fRlcjmflRSA"><img class="logos" src="assets/navbar/youtube.svg"></a></li>
+                    <li><a href="https://twitter.com/Imaginedragons?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><img class="logos" src="assets/navbar/twitter.svg"></a></li>
+                    <li><a href="https://www.instagram.com/imaginedragons/"><img class="logos" src="assets/navbar/instagram.png"></a></li>
+                </ul>
+            </nav>
+        </header>
+    </body>
+</html>

@@ -1,0 +1,61 @@
+/* Merch-Store */
+
+      @font-face{
+      font-family: Devil-Breeze-Bold;
+      src: url('fonts/Devil-Breeze-Bold.ttf')
+      }
+      
+      @font-face{
+      font-family: Bebas-Neue;
+      src: url('fonts/BebasNeue.woff2') format('woff2');
+      }
+      
+      @font-face{
+      font-family: Rowdies;
+      src: url(fonts/Rowdies-Regular.ttf);
+      }
+     
+      .arrow{
+      height : 30px;
+      width: 30px;
+      top: 50%;
+      left: 50%;
+      }
+      
+      .explore-button{
+      background-color: #2BDAE1;
+      border: none;
+      cursor: pointer;
+      position: fixed;
+      height: 45px;
+      width: 180px;
+      left: 42.5%;
+      top: 86.3%;
+      font-size: 24px;
+      font-family: Bebas-Neue;
+      text-align: left;
+      border-radius: 5px;
+      }
+      
+      body{
+      background-image: url("assets/backdrop.png");
+      background-size: cover;
+      }
+      
+      .imagine-dragons{
+      position: fixed;
+      color: white;
+      font-size: 77px;
+      left: 22%;
+      top: 63%;
+      font-family: Devil-Breeze-Bold;
+      }
+      
+      .we-are{
+      color: white;
+      position: fixed;
+      left: 45.3%;
+      top: 63%;
+      font-size: 32px;
+      font-family: Rowdies;
+      }
