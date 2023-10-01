@@ -20,7 +20,7 @@ _I"m ready to put in the best of my efforts into doing whatever tasks that help 
 ***TASK LIST***|***NAME***|***STATUS***|
 ---------------|------------|----------|
 [INTROSPECTION](https://github.com/shre939/amfoss-tasks#introspection)|INTROSPECTION|COMPLETED
-[Task-00](https://github.com/shre939/amfoss-tasks/tree/main/Task-00)|UBUNTU INSTALLATION
+[Task-00](https://github.com/shre939/amfoss-tasks/tree/main/Task-00)|UBUNTU INSTALLATION|COMPLETED
 [Task-01](https://github.com/shre939/amfoss-tasks/tree/main/Task-01)|TERMINAL WIZARD|COMPLETED
 [Task-02]|LESSGO HUGO|UNATTEMPTED
 [Task-03](https://github.com/shre939/amfoss-tasks/tree/main/Task-03)|HELLO WORLD|COMPLETED
