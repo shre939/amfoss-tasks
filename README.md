@@ -17,8 +17,8 @@ _I"m ready to put in the best of my efforts into doing whatever tasks that help 
 
 
 
-***TASK LIST***|***STATUS***
----------------|------------|
+***TASK LIST***|***NAME***|***STATUS***|
+---------------|------------|----------|
 [INTROSPECTION](https://github.com/shre939/amfoss-tasks#introspection)|INTROSPECTION|COMPLETED
 [Task-00](https://github.com/shre939/amfoss-tasks/tree/main/Task-00)|UBUNTU INSTALLATION
 [Task-01](https://github.com/shre939/amfoss-tasks/tree/main/Task-01)|TERMINAL WIZARD|COMPLETED
