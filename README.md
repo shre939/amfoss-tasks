@@ -35,6 +35,6 @@ _I"m ready to put in the best of my efforts into doing whatever tasks that help 
 [Task-12]|GODOT|UNATTEMPTED
 [Task-13](https://github.com/shre939/amfoss-tasks/tree/main/Task-13)|VIM|COMPLETED
 [Task-14](https://github.com/shre939/amfoss-tasks/tree/main/Task-14)|BANDIT|COMPLETED
-[Task-15]PROJECT EULER|UNATTEMPTED
+[Task-15]|PROJECT EULER|UNATTEMPTED
 
 

@@ -55,6 +55,7 @@ width: 26px;
         <header class="site-header">
             <div class="site-identity">
                 <h1><a href="landing-page.html"> <img class="logo" src="assets/navbar/logo.png"></a></h1>
+               <h2><a href="shop.html"><img class="logo" src="assets/navbar/logo.png"></a></h2> 
             </div>
             <nav class="site-navigation">
                 <ul class="nav">
