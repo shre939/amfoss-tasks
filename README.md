@@ -9,7 +9,7 @@ Hello,everyone! I'm Shreya Sanjay,currently pursuing Robotics & Artificial Intel
 
  **What Are Your Goals For The Next Six Months:**
  
- ### _To learn more about open software and build projects enhancing lives of mankind.If I do get selected I intend to learn more from the seniors in the club and learn more via the tasks provided._ 
+ _To learn more about open software and build projects enhancing lives of mankind.If I do get selected I intend to learn more from the seniors in the club and learn more via the tasks provided._
  
 **How will you contribute back to the club?**
 
