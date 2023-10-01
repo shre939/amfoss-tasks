@@ -19,13 +19,13 @@ _I"m ready to put in the best of my efforts into doing whatever tasks that help 
 
 ***TASK LIST***|***STATUS***
 ---------------|------------|
-[INTROSPECTION]https://github.com/shre939/amfoss-tasks#introspection|INTROSPECTION|COMPLETED
-[Task-00]https://github.com/shre939/amfoss-tasks/tree/main/Task-00|UBUNTU INSTALLATION
-[Task-01]https://github.com/shre939/amfoss-tasks/tree/main/Task-01TERMINAL WIZARD|COMPLETED
+[INTROSPECTION](https://github.com/shre939/amfoss-tasks#introspection)|INTROSPECTION|COMPLETED
+[Task-00](https://github.com/shre939/amfoss-tasks/tree/main/Task-00)|UBUNTU INSTALLATION
+[Task-01](https://github.com/shre939/amfoss-tasks/tree/main/Task-01)|TERMINAL WIZARD|COMPLETED
 [Task-02]LESSGO HUGO|UNATTEMPTED
-[Task-03]https://github.com/shre939/amfoss-tasks/tree/main/Task-03HELLO WORLD|COMPLETED
-[Task-04]https://github.com/shre939/amfoss-tasks/tree/main/Task-04|COMPETITIVE PROGRAMMING|COMPLETED PARTIALLY
-[Task-05]https://github.com/shre939/amfoss-tasks/tree/main/Task-05|HYPER TEXT MARKUP LANGUAGE| COMPLETED
+[Task-03](https://github.com/shre939/amfoss-tasks/tree/main/Task-03)|HELLO WORLD|COMPLETED
+[Task-04](https://github.com/shre939/amfoss-tasks/tree/main/Task-04)|COMPETITIVE PROGRAMMING|COMPLETED PARTIALLY
+[Task-05](https://github.com/shre939/amfoss-tasks/tree/main/Task-05)|HYPER TEXT MARKUP LANGUAGE| COMPLETED
 [Task-06]CRICKET VAULT
 [Task-07]AK-47|UNATTEMPTED
 [Task-08]POKE-SEARCH!|UNATTEMPTED
@@ -33,8 +33,8 @@ _I"m ready to put in the best of my efforts into doing whatever tasks that help 
 [Task-10]RUSK OS|UNATTEMPTED
 [Task-11]TINKERCAD|UNATTEMPTED
 [Task-12]GODOT|UNATTEMPTED
-[Task-13]VIM|COMPLETED
-[Task-14]BANDIT|COMPLETED
+[Task-13](https://github.com/shre939/amfoss-tasks/tree/main/Task-13)|VIM|COMPLETED
+[Task-14](https://github.com/shre939/amfoss-tasks/tree/main/Task-14)|BANDIT|COMPLETED
 [Task-15]PROJECT EULER|UNATTEMPTED
 
 
