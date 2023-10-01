@@ -26,7 +26,7 @@ _I"m ready to put in the best of my efforts into doing whatever tasks that help 
 [Task-03](https://github.com/shre939/amfoss-tasks/tree/main/Task-03)|HELLO WORLD|COMPLETED
 [Task-04](https://github.com/shre939/amfoss-tasks/tree/main/Task-04)|COMPETITIVE PROGRAMMING|COMPLETED PARTIALLY
 [Task-05](https://github.com/shre939/amfoss-tasks/tree/main/Task-05)|HYPER TEXT MARKUP LANGUAGE| COMPLETED
-[Task-06]|CRICKET VAULT|UNATTEMPTED
+[Task-06]|(https://github.com/shre939/amfoss-tasks/tree/main/Task-06)|CRICKET VAULT|STARTED
 [Task-07]|AK-47|UNATTEMPTED
 [Task-08]|POKE-SEARCH!|UNATTEMPTED
 [Task-09]|GEOQUEST|UNATTEMPTED
